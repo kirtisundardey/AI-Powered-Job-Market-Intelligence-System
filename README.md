@@ -171,7 +171,7 @@ streamlit run dashboard/app.py
 Clone Repository:
 
 ```bash
-git clone <your-github-repository-link>
+git clone <github-repository-link>
 ```
 
 Install Dependencies:
@@ -240,7 +240,7 @@ AI-Powered Job Market Intelligence System/
 # Author
 
 **👤 Kirti Sundar Dey**  
-📊 Data Analyst | Python | SQL | Machine Learning | Streamlit 
+📊 Data Analyst | Python | SQL | Machine Learning | Streamlit   
 🎓 Internship Project by **Rubixe – AI Solutions Company**  
 📍 Bengaluru, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/kirti-sundar-dey-0954122a5)
