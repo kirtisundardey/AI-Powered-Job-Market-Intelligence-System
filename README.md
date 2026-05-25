@@ -230,8 +230,6 @@ AI-Powered Job Market Intelligence System/
 
 # Screenshots
 
-Add screenshots of:
-
 * Dashboard
 * Charts
 * SQL Queries
@@ -241,11 +239,8 @@ Add screenshots of:
 
 # Author
 
-Name: Your Name
-
-GitHub: Your GitHub Profile
-
-LinkedIn: Your LinkedIn Profile
-
-```
-```
+**👤 Kirti Sundar Dey**  
+📊 Data Analyst | Python | SQL | Machine Learning | Streamlit 
+🎓 Internship Project by **Rubixe – AI Solutions Company**  
+📍 Bengaluru, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/kirti-sundar-dey-0954122a5)
