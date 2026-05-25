@@ -232,19 +232,19 @@ AI-Powered Job Market Intelligence System/
 
 ## Dashboard
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshot/dashboard.png)
 
 ---
 
 ## Salary Distribution Chart
 
-![Salary Chart](screenshots/salary_chart.png)
+![Salary Chart](screenshot/salary-distribution.png)
 
 ---
 
 ## ML Results
 
-![ML Results](screenshots/sql_query.png)
+![ML Results](screenshot/ml-results.png)
 
 ---
 
