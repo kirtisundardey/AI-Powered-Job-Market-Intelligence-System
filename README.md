@@ -171,7 +171,7 @@ streamlit run dashboard/app.py
 Clone Repository:
 
 ```bash
-git clone <github-repository-link>
+!git clone <github-repository>(https://github.com/kirtisundardey/AI-Powered-Job-Market-Intelligence-System)
 ```
 
 Install Dependencies:
